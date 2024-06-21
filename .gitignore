@@ -180,3 +180,4 @@ back/**/Entity/*~
 
 # Embedded web-server pid file
 back/.web-server-pid
+vendor
